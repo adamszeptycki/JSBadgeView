@@ -29,6 +29,7 @@ typedef NS_ENUM(NSUInteger, JSBadgeViewAlignment)
     JSBadgeViewAlignmentTopCenter,
     JSBadgeViewAlignmentCenterLeft,
     JSBadgeViewAlignmentCenterRight,
+    JSBadgeViewAlignmentRightCenter,
     JSBadgeViewAlignmentBottomLeft,
     JSBadgeViewAlignmentBottomRight,
     JSBadgeViewAlignmentBottomCenter,
